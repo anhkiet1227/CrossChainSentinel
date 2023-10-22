@@ -53,8 +53,8 @@ CrossChainSentinel/
 
 ## CSV Labels
 
-- `contract_labels.csv` - This file contains labels for benign smart contracts, indicating they are free from known vulnerabilities.
-- `detail_label.csv` - This file contains labels for malicious smart contracts, including the type of vulnerability they contain.
+- `contract_labels.csv` - This file contains labels for benign and malicious smart contracts.
+- `detail_label.csv` - This file contains labels for benign and malicious smart contracts, including the type of vulnerability they contain.
 
 ## License
 This dataset is provided under the [LICENSE](LICENSE). Please review and comply with the license terms before using the dataset.
