@@ -13,7 +13,7 @@ CrossChainSentinel is a comprehensive dataset of cross-chain smart contract vuln
 
 ## Files Structure
 
-The dataset is organized in the following directory structure:
+The dataset is organized in the following directory structure: \\
 CrossChainSentinel/
 │
 ├── Total/
