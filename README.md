@@ -57,7 +57,7 @@ CrossChainSentinel/
 - `detail_label.csv` - This file contains labels for malicious smart contracts, including the type of vulnerability they contain.
 
 ## License
-This dataset is provided under the LICENSE.md. Please review and comply with the license terms before using the dataset.
+This dataset is provided under the [LICENSE](LICENSE). Please review and comply with the license terms before using the dataset.
 
 ## Acknowledgments
 We would like to express our gratitude to the contributors, researchers, and organizations that contributed to the creation and curation of the CrossChainSentinel dataset.
