@@ -13,38 +13,38 @@ CrossChainSentinel is a comprehensive dataset of cross-chain smart contract vuln
 
 ## Files Structure
 
-The dataset is organized in the following directory structure: \\
-CrossChainSentinel/
-│
-├── Total/
-│ ├── Contract1.sol
-│ ├── Contract2.sol
-│ ├── ...
-│
-├── Benign/
-│ ├── Contract1.sol
-│ ├── Contract2.sol
-│ ├── ...
-│
-├── Malicious/
-│ ├── Reentrancy/
-│ │ ├── Contract159.sol
-│ │ ├── Contract160.sol
-│ │ ├── ...
-│ │
-│ ├── Integer Overflow/Underflow/
-│ │ ├── Contract201.sol
-│ │ ├── Contract202.sol
-│ │ ├── ...
-│ │
-│ ├── Unprotected Ether Withdrawal/
-│ │ ├── Contract249.sol
-│ │ ├── Contract250.sol
-│ │ ├── ...
-│
-├── Labels/
-│ ├── contract_labels.csv
-│ ├── detail_label.csv
+The dataset is organized in the following directory structure:  
+CrossChainSentinel/  
+│  
+├── Total/  
+│ ├── Contract1.sol  
+│ ├── Contract2.sol  
+│ ├── ...  
+│  
+├── Benign/  
+│ ├── Contract1.sol  
+│ ├── Contract2.sol  
+│ ├── ...  
+│  
+├── Malicious/  
+│ ├── Reentrancy/  
+│ │ ├── Contract159.sol  
+│ │ ├── Contract160.sol  
+│ │ ├── ...  
+│ │  
+│ ├── Integer Overflow/Underflow/  
+│ │ ├── Contract201.sol  
+│ │ ├── Contract202.sol  
+│ │ ├── ...  
+│ │  
+│ ├── Unprotected Ether Withdrawal/  
+│ │ ├── Contract249.sol  
+│ │ ├── Contract250.sol  
+│ │ ├── ...  
+│  
+├── Labels/  
+│ ├── contract_labels.csv  
+│ ├── detail_label.csv  
 
 - The `Total/` directory contains all smart contract files.
 - The `Benign/` directory contains benign smart contract files.
