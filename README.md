@@ -49,7 +49,7 @@ CrossChainSentinel/
 - The `Total/` directory contains all smart contract files.
 - The `Benign/` directory contains benign smart contract files.
 - The `Malicious/` directory contains malicious smart contract files, categorized by vulnerability type.
-- The `Labels/` directory includes label CSV files, one for benign and another for malicious contracts.
+- The `Labels/` directory includes label CSV files.
 
 ## CSV Labels
 
